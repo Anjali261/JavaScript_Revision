@@ -91,7 +91,3 @@ console.log("After Block i.e is Outside Block",x)
 // Here x is 10
 */
 
-const x = 20;
-console.log(x);
-x=50;
-console.log(x);
